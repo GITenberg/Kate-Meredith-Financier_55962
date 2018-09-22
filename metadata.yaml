@@ -1,10 +1,13 @@
 _repo: Kate-Meredith-Financier_55962
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Parker, Frank
     gutenberg_agent_id: '48597'
     url: http://www.gutenberg.org/2009/agents/48597
+covers:
+- cover_type: archival
+  image_path: 55962-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hyne, Charles John Cutcliffe Wright
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '4423'
     url: http://www.gutenberg.org/2009/agents/4423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55962#Kate-Meredith-Financier
 gutenberg_issued: '2017-11-14'
 gutenberg_type: Text
 identifiers:
